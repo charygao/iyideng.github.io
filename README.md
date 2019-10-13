@@ -1,5 +1,5 @@
 ----------
-来即是客，不妨喝杯茶再走！既来之，则安之。随便聊聊！[**灯行**](https://iyideng.com)博客旨在记录生活，传播知识，分享感悟，好物测评！仅此而已。老子说，“以正治国，以奇用兵，以无事取天下。”现在我深以为然。
+[**灯行**](https://iyideng.com)博客旨在记录生活，传播知识，分享感悟，好物测评！仅此而已。老子说，“以正治国，以奇用兵，以无事取天下。”现在我深以为然。
 
 欢迎您来到灯行博客后花园！
 ----------
@@ -18,3 +18,5 @@
 [【3】Linode - 月付最多5刀，新注册用户送20刀](https://iyideng.com/truth/linode-vps.html)   
 [【4】Hostwinds - 老牌VPS，口碑好，免费换IP](https://iyideng.com/essay/hostwinds.html)   
 [【5】Just My Socks - 搬瓦工出品，被墙自动换IP](https://goto.iyideng.com/JustMySocks)  
+
+来即是客，不妨喝杯茶再走！既来之，则安之。随便聊聊！

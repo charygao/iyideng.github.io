@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+本网页仅作为 [**灯行**](https://iyideng.com) 自留地使用，不更新很多具体内容。主要用于网站维护更新、更换域名等特殊情况期间的备用通知渠道。 鉴于GitHub的全球市场，所以在一般情况下，GitHub Pages都能很好的保障大部分用户快速无阻碍地访问。
 
-You can use the [editor on GitHub](https://github.com/iyideng/iyideng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 与我取得联系
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iyideng/iyideng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+您可以到 [**这里**](https://iyideng.com/about/contact) 提交联系表单的。

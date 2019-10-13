@@ -9,9 +9,9 @@
 
 ### 这里我推荐几款优秀的VPS
 
-[【0】阿里云VPS-香港新加坡机房，30M极速带宽](https://iyideng.com/essay/aliyun-simple-application-server-hongkong-singapore-vps.html) 
-[【1】搬瓦工 - 省6.38%优惠码:BWH34QMFYT2R](https://goto.iyideng.com/BandwagonHOST) 
-[【2】VULTR - 最低月付2.5刀，支持日本/洛杉矶](https://goto.iyideng.com/Vultr4F) 
-[【3】Linode - 月付最多5刀，新注册用户送20刀](https://iyideng.com/truth/linode-vps.html) 
-[【4】Hostwinds - 老牌VPS，口碑好，免费换IP](https://iyideng.com/essay/hostwinds.html) 
-[【5】Just My Socks - 搬瓦工出品，被墙自动换IP](https://goto.iyideng.com/JustMySocks)
+[【0】阿里云VPS-香港新加坡机房，30M极速带宽](https://iyideng.com/essay/aliyun-simple-application-server-hongkong-singapore-vps.html)   
+[【1】搬瓦工 - 省6.38%优惠码:BWH34QMFYT2R](https://goto.iyideng.com/BandwagonHOST)   
+[【2】VULTR - 最低月付2.5刀，支持日本/洛杉矶](https://goto.iyideng.com/Vultr4F)   
+[【3】Linode - 月付最多5刀，新注册用户送20刀](https://iyideng.com/truth/linode-vps.html)   
+[【4】Hostwinds - 老牌VPS，口碑好，免费换IP](https://iyideng.com/essay/hostwinds.html)   
+[【5】Just My Socks - 搬瓦工出品，被墙自动换IP](https://goto.iyideng.com/JustMySocks)  

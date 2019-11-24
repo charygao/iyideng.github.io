@@ -12,11 +12,12 @@
 
 ### 推荐几款优秀的VPS
 
-[【0】阿里云VPS-香港新加坡机房，30M极速带宽](https://iyideng.com/essay/vps/aliyun-simple-application-server-hongkong-singapore-vps.html)   
-[【1】搬瓦工 - 省6.38%优惠码:BWH34QMFYT2R](https://iyideng.com/essay/vps/bandwagonhost-vps-register-buy-and-btpanel-lnmp-built-tutorial.html)   
-[【2】VULTR - 最低月付2.5刀，支持日本/洛杉矶](https://goto.iyideng.com/Vultr4F)   
-[【3】Linode - 月付最多5刀，新注册用户送20刀](https://iyideng.com/essay/vps/linode-vps.html)   
-[【4】Hostwinds - 老牌VPS，口碑好，免费换IP](https://iyideng.com/essay/vps/hostwinds.html)   
-[【5】Just My Socks - 搬瓦工出品，被墙自动换IP](https://iyideng.com/truth/cgfw/banwagonhost-just-my-socks-website-buy-ss.html)  
+[【0】PR VPS-5折优惠码:VPS50OFF(年付12.5刀)](https://iyideng.com/essay/vps/pacificrack.html) 
+[【1】阿里云VPS-香港新加坡机房，30M极速带宽](https://iyideng.com/essay/vps/aliyun-simple-application-server-hongkong-singapore-vps.html)   
+[【2】搬瓦工 - 省6.38%优惠码:BWH34QMFYT2R](https://iyideng.com/essay/vps/bandwagonhost-vps-register-buy-and-btpanel-lnmp-built-tutorial.html)   
+[【3】VULTR - 最低月付2.5刀，支持日本/洛杉矶](https://goto.iyideng.com/Vultr4F)   
+[【4】Linode - 月付最多5刀，新注册用户送20刀](https://iyideng.com/essay/vps/linode-vps.html)   
+[【5】Hostwinds - 老牌VPS，口碑好，免费换IP](https://iyideng.com/essay/vps/hostwinds.html)   
+[【6】Just My Socks - 搬瓦工出品，被墙自动换IP](https://iyideng.com/truth/cgfw/banwagonhost-just-my-socks-website-buy-ss.html)  
 
 来即是客，不妨喝杯茶再走！既来之，则安之。随便聊聊！

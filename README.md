@@ -18,5 +18,6 @@
 [【4】Linode - 月付最多5刀，新注册用户送20刀](https://iyideng.com/essay/vps/linode-vps.html)   
 [【5】Hostwinds - 老牌VPS，口碑好，免费换IP](https://iyideng.com/essay/vps/hostwinds.html)   
 [【6】Just My Socks - 搬瓦工出品，被墙自动换IP](https://iyideng.com/truth/cgfw/banwagonhost-just-my-socks-website-buy-ss.html)   
+[【7】DuangCloud -  V2Ray|YouTube视频4K秒开](https://iyideng.com/truth/cgfw/duangcloud-v2ray-buy-register-and-using-tutorial.html)   
 
 来即是客，不妨喝杯茶再走！既来之，则安之。随便聊聊！

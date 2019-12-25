@@ -16,7 +16,7 @@
 [【2】搬瓦工 - 省6.38%优惠码:BWH34QMFYT2R](https://iyideng.com/essay/vps/bandwagonhost-vps-register-buy-and-btpanel-lnmp-built-tutorial.html)   
 [【3】VULTR - 最低月付2.5刀，支持日本/洛杉矶](https://goto.iyideng.com/Vultr4F)   
 [【4】Linode - 月付最多5刀，新注册用户送20刀](https://iyideng.com/essay/vps/linode-vps.html)   
-[【5】Hostwinds - 月付低至4.49刀|扶梯爬墙首选](https://iyideng.com/essay/vps/hostwinds.html)   
+[【5】Hostwinds - 月付低至4.49刀|搭建梯子爬墙首选](https://iyideng.com/essay/vps/hostwinds.html)   
 [【6】Just My Socks - 搬瓦工出品，被墙自动换IP](https://iyideng.com/truth/cgfw/banwagonhost-just-my-socks-website-buy-ss.html)   
 [【7】DuangCloud -  V2Ray|YouTube视频4K秒开](https://iyideng.com/truth/cgfw/duangcloud-v2ray-buy-register-and-using-tutorial.html)   
 

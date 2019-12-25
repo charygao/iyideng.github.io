@@ -12,7 +12,6 @@
 
 ### 推荐几款优秀的VPS
 
-[【0】PacificRack VPS - 5折优惠码:VPS50OFF(最低年付12.5刀，续费不涨价)](https://iyideng.com/essay/vps/pacificrack.html)   
 [【1】阿里云VPS-香港新加坡机房，30M极速带宽](https://iyideng.com/essay/vps/aliyun-simple-application-server-hongkong-singapore-vps.html)   
 [【2】搬瓦工 - 省6.38%优惠码:BWH34QMFYT2R](https://iyideng.com/essay/vps/bandwagonhost-vps-register-buy-and-btpanel-lnmp-built-tutorial.html)   
 [【3】VULTR - 最低月付2.5刀，支持日本/洛杉矶](https://goto.iyideng.com/Vultr4F)   

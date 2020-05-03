@@ -12,7 +12,7 @@
 
 ### 推荐几款优秀的VPS
 
-[【6】Just My Socks - 搬瓦工出品，被墙自动换IP](https://iyideng.me/black-technology/cgfw/bandwagonhost-just-my-socks-buy-using-youtube-speed-tutorials.html)   
-[【7】MieLink羊圈 -  Trojan|YouTube视频4K秒开](https://iyideng.me/black-technology/cgfw/mielink-trojan-buy-register-and-using-tutorial.html)   
+[【1】Just My Socks - 搬瓦工出品，被墙自动换IP](https://iyideng.me/black-technology/cgfw/bandwagonhost-just-my-socks-buy-using-youtube-speed-tutorials.html)   
+[【2】MieLink羊圈 -  Trojan|YouTube视频4K秒开](https://iyideng.me/black-technology/cgfw/mielink-trojan-buy-register-and-using-tutorial.html)   
 
 来即是客，不妨喝杯茶再走！既来之，则安之。随便聊聊！

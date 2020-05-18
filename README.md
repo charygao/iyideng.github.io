@@ -8,4 +8,4 @@
 
 ### 与我取得联系
 
-您可以到 [**TG**](https://t.me/iyideng) 与我取得联系。
+请添加我的 [**TG**](https://t.me/iyideng) 
